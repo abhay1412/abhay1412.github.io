@@ -1,4 +1,4 @@
-url = abhay1412.github.io
+url = http://abhay1412.github.io/
 Thanks for downloading this template!
 
 Template Name: MyResume
